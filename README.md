@@ -9,9 +9,9 @@ This project is based on Arduino Mega 2560 R3 microcontroller. And the repo cont
 
  
 The full gallery of the project
-![173442306_3835249403207891_3843970440395399707_n](https://user-images.githubusercontent.com/52780461/115481307-3ffdb700-a244-11eb-95f7-f7211520bf91.png){ width="350px"}
-![172280093_373108927178272_7261096589997962787_n](https://user-images.githubusercontent.com/52780461/115481331-4db33c80-a244-11eb-9815-3a55bfd486aa.jpg) { width="350px"}
-![image_2021-04-10_030404](https://user-images.githubusercontent.com/52780461/115481369-61f73980-a244-11eb-92d6-1b1fe1f87d21.png){ width="350px"}
+![173442306_3835249403207891_3843970440395399707_n](https://user-images.githubusercontent.com/52780461/115481307-3ffdb700-a244-11eb-95f7-f7211520bf91.png)
+![172280093_373108927178272_7261096589997962787_n](https://user-images.githubusercontent.com/52780461/115481331-4db33c80-a244-11eb-9815-3a55bfd486aa.jpg)
+![image_2021-04-10_030404](https://user-images.githubusercontent.com/52780461/115481369-61f73980-a244-11eb-92d6-1b1fe1f87d21.png)
 
 
 # Electronics hardware
